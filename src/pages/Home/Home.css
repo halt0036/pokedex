@@ -1,0 +1,23 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.home h1 {
+  color: #fff;
+  font-size: 4rem;
+  margin-top: 5rem;
+}
+
+.home-title {
+  margin-left: 10rem;
+  margin-top: -10rem;
+}
+
+.home-buttons {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
